@@ -1,0 +1,7 @@
+.Done {
+  text-decoration: line-through;
+  color: turquoise;
+}
+.Undone {
+  color: rgb(5, 82, 78);
+}
